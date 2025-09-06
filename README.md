@@ -2,10 +2,10 @@
 # Project Objective
 The objective of this project is to analyze sales data using Excel and Power BI by creating an interactive dashboard that tracks revenue trends, highlights top-performing products, regions, and salespersons, and provides key performance indicators (KPIs) for better business decision-making.
 
-##DataSet used
+## DataSet used
 - <a href="https://github.com/ArsathMohamed351/Data-Analysis-DashBoard/blob/main/Sales_Performance_Excel.xlsx">DataSet</a>
 
-##Key Performance Indicator (KPI) Questions  
+## Key Performance Indicator (KPI) Questions  
 
 - What is the **Total Revenue** generated?  
 - What is the **Total Profit** earned?  
@@ -55,5 +55,27 @@ The objective of this project is to analyze sales data using Excel and Power BI 
    - Compared salespersons’ performance  
    - Highlighted profit margin trends
 
-  ##DashBoard
+  ## DashBoard
+  <img width="1283" height="721" alt="sales_performance" src="https://github.com/user-attachments/assets/f3aa0a16-a842-4219-8130-0c636a26f52a" />
+
+  ## Project Insights  
+
+- The **North region** generated the highest revenue compared to other regions.  
+- **Top 5 products** contributed to more than 50% of total revenue.  
+- The **profit margin** averaged around 29%, showing healthy profitability.  
+- A few products had **high sales but low profit margins**, indicating potential pricing issues.  
+- **Salesperson performance** varied widely, with the top salesperson contributing a major share of total revenue.  
+- The **revenue trend** shows clear seasonality, with peak sales in specific months.  
+
+## Conclusion  
+
+This dashboard provides a clear overview of sales performance, helping to:  
+- Monitor revenue, profit, and margins in real-time  
+- Identify top-performing regions, products, and salespersons  
+- Detect underperforming areas that need improvement  
+- Support **data-driven decision making** for business growth  
+
+Overall, the project demonstrates how **Excel + Power BI** can be combined to transform raw sales data into actionable business insights.  
+
+
 
